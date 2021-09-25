@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallNumberClash", "CallNumberClash.csproj", "{943B1AD6-5F7D-4005-BA5D-A9F348E774F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943B1AD6-5F7D-4005-BA5D-A9F348E774F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943B1AD6-5F7D-4005-BA5D-A9F348E774F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943B1AD6-5F7D-4005-BA5D-A9F348E774F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943B1AD6-5F7D-4005-BA5D-A9F348E774F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FF22C9-012C-4652-B240-D78B49997F51}
+	EndGlobalSection
+EndGlobal
